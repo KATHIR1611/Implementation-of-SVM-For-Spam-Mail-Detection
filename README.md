@@ -67,27 +67,27 @@ accuracy
 
 Result output
 
-![]()
+![](jk 6.png)
 
 data.head()
 
-![]()
+![](jk 1.png)
 
 data.info()
 
-![]()
+![](jk 2.png)
 
 data.isnull().sum()
 
-![]()
+![](jk 3.png)
 
 y_prediction value
 
-![]()
+![](jk 4.png)
 
 Accuracy value
 
-![]()
+![](jk 5.png)
 
 
 ## Result:
