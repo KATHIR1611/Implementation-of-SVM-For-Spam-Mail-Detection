@@ -67,27 +67,27 @@ accuracy
 
 Result output
 
-![](jk 6.png)
+![](https://github.com/KATHIR1611/Implementation-of-SVM-For-Spam-Mail-Detection/blob/main/jk%206.png)
 
 data.head()
 
-![](jk 1.png)
+![](https://github.com/KATHIR1611/Implementation-of-SVM-For-Spam-Mail-Detection/blob/main/jk%201.png)
 
 data.info()
 
-![](jk 2.png)
+![](https://github.com/KATHIR1611/Implementation-of-SVM-For-Spam-Mail-Detection/blob/main/jk%202.png)
 
 data.isnull().sum()
 
-![](jk 3.png)
+![](https://github.com/KATHIR1611/Implementation-of-SVM-For-Spam-Mail-Detection/blob/main/jk%203.png)
 
 y_prediction value
 
-![](jk 4.png)
+![](https://github.com/KATHIR1611/Implementation-of-SVM-For-Spam-Mail-Detection/blob/main/jk%204.png)
 
 Accuracy value
 
-![](jk 5.png)
+![](https://github.com/KATHIR1611/Implementation-of-SVM-For-Spam-Mail-Detection/blob/main/jk%205.png)
 
 
 ## Result:
